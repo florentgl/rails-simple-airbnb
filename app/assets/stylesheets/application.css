@@ -13,3 +13,15 @@
  *= require_tree .
  *= require_self
  */
+
+a:hover {
+  opacity: 0.7;
+}
+
+.home-link {
+  font-size: 25px;
+}
+
+/* .add-link {
+  font-size: 16px;
+} */
